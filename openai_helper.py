@@ -1,5 +1,4 @@
 import os
-import logging
 from openai import OpenAI
 
 class OpenAIHelper:
